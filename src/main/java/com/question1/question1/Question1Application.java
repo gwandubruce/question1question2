@@ -20,7 +20,7 @@ public class Question1Application {
 
 		try {
 			// request url
-			String url = "https://forms.southafricanorth.cloudapp.azure.com/v1";
+			String url = "https://v1.forms.southafricanorth.cloudapp.azure.com/";
 
 			// create auth credentials
 			String authStr = "dataviewer@ophid.co.zw:pass";
